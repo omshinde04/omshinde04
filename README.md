@@ -80,10 +80,10 @@ SGPA: **7.01**
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://www.linkedin.com/in/om-shinde-892a2532a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:oms151567@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
