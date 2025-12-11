@@ -80,17 +80,17 @@ SGPA: **7.01**
 <div align="center">
 
 <a href="https://www.linkedin.com/in/om-shinde-892a2532a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge"/>
 </a>
-
 
 <a href="mailto:oms151567@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/omshinde04">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<a href="https://github.com/omshinde04" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/>
 </a>
+
 
 </div>
 
